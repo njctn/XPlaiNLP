@@ -16,11 +16,11 @@
 title: XplaiNLP
 email:
 description: >- # this means to ignore newlines until "baseurl:"
-Entwicklung intelligenter Entscheidungsunterstützungssysteme durch die Erforschung 
-des gesamten Zyklus von der Entwicklung und Implementierung großer Sprachmodelle bis 
-hin zur Gestaltung von Benutzeroberflächen mit für den Menschen aussagekräftigen 
-Darstellungen von Modellergebnissen und Metadaten, durch die Implementierung von 
-Erklärungen und Transparenzmerkmalen von NLP-basierten Vorhersagen.
+  Entwicklung intelligenter Entscheidungsunterstützungssysteme durch die Erforschung 
+  des gesamten Zyklus von der Entwicklung und Implementierung großer Sprachmodelle bis 
+  hin zur Gestaltung von Benutzeroberflächen mit für den Menschen aussagekräftigen 
+  Darstellungen von Modellergebnissen und Metadaten, durch die Implementierung von 
+  Erklärungen und Transparenzmerkmalen von NLP-basierten Vorhersagen.
 twitter_username: username
 github_username: username
 minimal_mistakes_skin: dark
