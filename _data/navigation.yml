@@ -1,15 +1,15 @@
 main:
   - title: "Home"
-    url: /home/
+    url: /404/ #/home/ 
   - title: "People"
-    url: /people/
+    url: /404/ #/people/
   - title: "Publications"
-    url: /publications/
+    url: /404/ #/publications/
   - title: "Projects"
-    url: /projects/
+    url: /404/ #/projects/
   - title: "Open Source Tools"
-    url: /tools/
+    url: /404/ #/tools/
   - title: "Open Source Datasets"
-    url: /datasets/
+    url: /404/ #/datasets/
   - title: "Contact"
-    url: /contact/
+    url: /404/ #/contact/
