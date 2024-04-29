@@ -6,7 +6,7 @@ main:
   - title: "Publications"
     url: /404/ #/publications/
   - title: "Projects"
-    url: /404/ #/projects/
+    url: /projects/
   - title: "Open Source Tools"
     url: /404/ #/tools/
   - title: "Open Source Datasets"
