@@ -1,9 +1,11 @@
 main:
-  - title: "Posts"
+  - title: "People"
     url: /posts/
-  - title: "Categories"
+  - title: "Publications"
     url: /categories/
-  - title: "Tags"
+  - title: "Open Source Tools and Datasets"
     url: /tags/
-  - title: "About"
+  - title: "Projects"
     url: /about/
+  - title: "Contact"
+    url: /contact/
