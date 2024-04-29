@@ -2,6 +2,9 @@
 permalink: /projects/
 title: "Projects"
 author_profile: false
+
+sidebar: 
+- title: "Projects"
 ---
 
 # NEWS-POLYGRAPH
