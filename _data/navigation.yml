@@ -13,3 +13,5 @@ main:
     url: /404/ #/datasets/
   - title: "Contact"
     url: /404/ #/contact/
+  - title: "test-site"
+    url: /about/
