@@ -21,3 +21,7 @@ Das NEWS-POLYGRAPH-Bündnis besteht aus insgesamt zehn Partnern, die sich aus In
 ## Link zur Projektwebseite
 
 https://news-polygraph.com/ 
+
+## Laufzeit
+
+01.05.2023 - 30.04.2026
