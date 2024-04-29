@@ -1,11 +1,15 @@
 main:
+  - title: "Home"
+    url: /home/
   - title: "People"
-    url: /posts/
+    url: /people/
   - title: "Publications"
-    url: /categories/
-  - title: "Open Source Tools and Datasets"
-    url: /tags/
+    url: /publications/
   - title: "Projects"
-    url: /about/
+    url: /projects/
+  - title: "Open Source Tools"
+    url: /tools/
+  - title: "Open Source Datasets"
+    url: /datasets/
   - title: "Contact"
     url: /contact/
