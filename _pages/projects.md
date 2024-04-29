@@ -20,7 +20,7 @@ Das NEWS-POLYGRAPH-Bündnis besteht aus insgesamt zehn Partnern, die sich aus In
 
 ## Link zur Projektwebseite
 
-https://news-polygraph.com/ 
+[https://news-polygraph.com/](https://news-polygraph.com/) 
 
 ## Laufzeit
 
