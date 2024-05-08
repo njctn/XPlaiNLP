@@ -5,7 +5,6 @@ permalink: /splash-page/
 date: 2016-03-23T11:48:41-04:00
 feature_row:
   - image_path: assets/images/bio-photo.jpg
-<img src="assets/images/test.png" alt="test" width="200"/>
     alt: "placeholder image 1"
     title: "Placeholder 1"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
@@ -55,3 +54,5 @@ feature_row4:
 {% include feature_row id="feature_row3" type="right" %}
 
 {% include feature_row id="feature_row4" type="center" %}
+
+<img src="assets/images/test.png" alt="test" width="200"/>
