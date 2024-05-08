@@ -55,4 +55,10 @@ feature_row4:
 
 {% include feature_row id="feature_row4" type="center" %}
 
-<img src="assets/images/test.png" alt="test" width="200"/>
+<img src="/assets/images/test.png" alt="test" width="200"/>
+
+<figure style="width: 80px" class="align-center">
+  <img src="/assets/images/test.png" alt=""></a>
+  <figcaption>Image caption.</figcaption>
+</figure>
+
