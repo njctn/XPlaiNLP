@@ -2,7 +2,7 @@ main:
   - title: "Home"
     url: /404/ #/home/ 
   - title: "People"
-    url: /404/ #/people/
+    url: /people/
   - title: "Publications"
     url: /404/ #/publications/
   - title: "Projects"
