@@ -32,7 +32,7 @@ feature_row3:
     alt: "placeholder image 2"
     title: "Placeholder Image Right Aligned"
     excerpt: 'This is some sample content that goes here with **Markdown** formatting. Right aligned with `type="right"`, test image size with `img_url: '450x'`'
-    url: '450x'
+    url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row4:
