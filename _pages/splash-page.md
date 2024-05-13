@@ -35,6 +35,7 @@ feature_row3:
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
+    img_url: '450x' 
 feature_row4:
   - image_path: /assets/images/test.png
     alt: "placeholder image 2"
