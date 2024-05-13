@@ -58,7 +58,7 @@ feature_row4:
 <img src="/assets/images/test.png" alt="test" width="200"/>
 
 <figure style="width: 80px" class="align-center">
-  <img src="/assets/images/test.png" alt="">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/test.png" alt="">
   <figcaption>Image caption.</figcaption>
 </figure>
 
