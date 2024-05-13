@@ -31,12 +31,13 @@ feature_row3:
   - image_path: /assets/images/bio-photo.jpg
     alt: "placeholder image 2"
     title: "Placeholder Image Right Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Right aligned with `type="right"`'
+    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Right aligned with `type="right"`, test image size with `img_url: '450x'`'
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
+    img_url: '450x'
 feature_row4:
-  - image_path: {: .align-center style="width: 10%;"}/assets/images/test.png
+  - image_path: /assets/images/test.png
     alt: "placeholder image 2"
     title: "Placeholder Image Center Aligned"
     excerpt: 'This is some sample content that goes here with **Markdown** formatting. Centered with `type="center"`, test this: `{: .align-center style="width: 10%;"}`'
@@ -53,7 +54,7 @@ feature_row4:
 
 {% include feature_row id="feature_row3" type="right" %}
 
-{% include feature_row id="feature_row4" type="center" %}
+{% include feature_row id="feature_row4" type="center" %}{: .align-center style="width: 10%;"}
 
 <img src="/assets/images/test.png" alt="test" width="200"/>
 
