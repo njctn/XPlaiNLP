@@ -37,7 +37,7 @@ feature_row3:
     btn_class: "btn--primary"
     img_url: '450x' 
 feature_row4:
-  - image_path: /assets/images/test.png
+  - image_path: /assets/images/bio-photo.jpg
     alt: "placeholder image 2"
     title: "Placeholder Image Center Aligned"
     excerpt: 'This is some sample content that goes here with **Markdown** formatting. Centered with `type="center"`, test this: `{: .align-center style="width: 50%;"}`'
