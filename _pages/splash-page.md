@@ -44,6 +44,13 @@ feature_row4:
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
+- image_path: /assets/images/test.jpg
+    alt: "test image"
+    title: "Placeholder Image Center Aligned"
+    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Centered with `type="center"`, test this: `{: .align-center style="width: 50%;"}`'
+    url: "#test-link"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
 ---
 
 {% include feature_row id="intro" type="center" %}
