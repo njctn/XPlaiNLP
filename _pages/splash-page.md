@@ -37,7 +37,7 @@ feature_row3:
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row4:
-  - image_path: /assets/images/bio-photo.jpg{: .align-center style="width: 50%;"}
+  - image_path: /assets/images/bio-photo.jpg
     alt: "placeholder image 2"
     title: "Placeholder Image Center Aligned"
     excerpt: 'This is some sample content that goes here with **Markdown** formatting. Centered with `type="center"`, test this: `{: .align-center style="width: 50%;"}`'
@@ -47,7 +47,7 @@ feature_row4:
   - image_path: /assets/images/test.jpg
     alt: "test image"
     title: "Placeholder Image Center Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Centered with `type="center"`, test this: `{: .align-center style="width: 50%;"}`'
+    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Centered with `type="center"`, test this: `{: feature_row4.align-center style="width: 50%;"}`'
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
@@ -68,7 +68,7 @@ https://www.fabriziomusacchio.com/blog/2021-08-11-Minimal_Mistakes_Cheat_Sheet/#
 -->
 {% include feature_row id="feature_row3" type="right" %}{: .align-center style="width: 25%;"}
 
-{% include feature_row id="feature_row4" type="center" %}{: .align-center style="width: 50%;"}
+{% include feature_row id="feature_row4" type="center" %}{: feature_row4.align-center style="width: 50%;"}
 
 # image with base html
 <img src="/assets/images/test.png" alt="test" width="200"/>
