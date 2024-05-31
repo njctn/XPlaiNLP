@@ -32,7 +32,7 @@ feature_row3:
   - image_path: /assets/images/bio-photo.jpg
     alt: "placeholder image 2"
     title: "Placeholder Image Right Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Right aligned with `type="right"`, test this: `{: .align-center style="width: 25%;"}`
+    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Right aligned with `type="right"`, test this: `{: .align-center style="width: 25%;"}`'
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
