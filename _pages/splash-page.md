@@ -37,7 +37,7 @@ feature_row3:
     btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row4:
-  - image_path: /assets/images/bio-photo.jpg
+  - image_path: /assets/images/bio-photo.jpg{: .align-center style="width: 50%;"}
     alt: "placeholder image 2"
     title: "Placeholder Image Center Aligned"
     excerpt: 'This is some sample content that goes here with **Markdown** formatting. Centered with `type="center"`, test this: `{: .align-center style="width: 50%;"}`'
@@ -52,17 +52,25 @@ feature_row4:
     btn_label: "Read More"
     btn_class: "btn--primary"
 ---
-
+<!---
+feature rows built with liquid
+https://www.fabriziomusacchio.com/blog/2021-08-12-Liquid_Cheat_Sheet/#the-liquid-template-language-and-its-main-components
+-->
 {% include feature_row id="intro" type="center" %}
 
 {% include feature_row %}
 
 {% include feature_row id="feature_row2" type="left" %}
 
+<!---
+CSS added to the whole feature row with kramdown
+https://www.fabriziomusacchio.com/blog/2021-08-11-Minimal_Mistakes_Cheat_Sheet/#kramdown
+-->
 {% include feature_row id="feature_row3" type="right" %}{: .align-center style="width: 25%;"}
 
 {% include feature_row id="feature_row4" type="center" %}{: .align-center style="width: 50%;"}
 
+# image with base html
 <img src="/assets/images/test.png" alt="test" width="200"/>
 
 <figure style="width: 80px" class="align-center">
