@@ -34,23 +34,17 @@ feature_row3:
     title: "Placeholder Image Right Aligned"
     excerpt: 'This is some sample content that goes here with **Markdown** formatting. Right aligned with `type="right"`, test this: `{: .align-center style="width: 25%;"}`'
     url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
 feature_row4:
   - image_path: /assets/images/bio-photo.jpg
     alt: "placeholder image 2"
     title: "Placeholder Image Center Aligned"
     excerpt: 'This is some sample content that goes here with **Markdown** formatting. Centered with `type="center"`, test this: `{: .align-center style="width: 50%;"}`'
     url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
   - image_path: /assets/images/test.jpg
     alt: "test image"
     title: "Placeholder Image Center Aligned"
     excerpt: 'This is some sample content that goes here with **Markdown** formatting. Centered with `type="center"`, test this: `{: feature_row4.align-center style="width: 50%;"}`'
     url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--primary"
 ---
 <!---
 feature rows built with liquid
