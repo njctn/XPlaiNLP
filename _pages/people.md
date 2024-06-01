@@ -1,8 +1,51 @@
 ---
 title: "People"
 permalink: /people/
-layout: people
 author_profile: false
 ---
 
--- Under Construction --
+# Researchers
+
+<figure style="width: 250px" class="align-center">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/bio-photo.jpg" alt="">
+  <figcaption>Ibrahim Baroud</figcaption>
+</figure>
+
+<figure style="width: 250px" class="align-center">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/bio-photo.jpg" alt="">
+  <figcaption>Charlott Jakob</figcaption>
+</figure>
+
+<figure style="width: 250px" class="align-center">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/bio-photo.jpg" alt="">
+  <figcaption>Salar Mohtaj</figcaption>
+</figure>
+
+<figure style="width: 250px" class="align-center">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/bio-photo.jpg" alt="">
+  <figcaption>Premtim Sahitaj</figcaption>
+</figure>
+
+<figure style="width: 250px" class="align-center">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/bio-photo.jpg" alt="">
+  <figcaption>Vera Schmitt</figcaption>
+</figure>
+
+# Student Assistants
+
+<figure style="width: 250px" class="align-center">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/bio-photo.jpg" alt="">
+  <figcaption>Ata Nizamoglu</figcaption>
+</figure>
+
+<figure style="width: 250px" class="align-center">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/bio-photo.jpg" alt="">
+  <figcaption>Ariana Sahitaj</figcaption>
+</figure>
+
+# Alumni
+
+<figure style="width: 250px" class="align-center">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/bio-photo.jpg" alt="">
+  <figcaption>Martin Burghart</figcaption>
+</figure>
