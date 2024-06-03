@@ -23,11 +23,11 @@ feature_row2:
   - image_path: /assets/images/bio-photo.jpg
     alt: "placeholder image 2"
     title: "Placeholder Image Left Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`, trying to resize imge with `style: "width: 250px"`'
+    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`, trying to resize imge with `size: "width: 250px"`'
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
-    style: "width: 250px"
+    size: "250"
 feature_row3:
   - image_path: /assets/images/bio-photo.jpg
     alt: "placeholder image 2"
@@ -65,7 +65,7 @@ https://www.fabriziomusacchio.com/blog/2021-08-11-Minimal_Mistakes_Cheat_Sheet/#
 {% include feature_row id="feature_row4" type="center" %}{: feature_row4.align-center style="width: 50%;"}
 
 # image with base html
-<img src="/assets/images/test.png" alt="test" width="200"/>
+<img src="/assets/images/test.jpg" alt="test" width="200"/>
 
 <figure style="width: 80px" class="align-center">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/bio-photo.jpg" alt="">
