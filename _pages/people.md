@@ -6,7 +6,7 @@ author_profile: false
 
 # Researchers
 
-<figure class="third" style="width: 230px">
+<figure class="third">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/bio-photo.jpg" alt="">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/bio-photo.jpg" alt="">
   <!--<figcaption>Charlott Jakob</figcaption> -->
