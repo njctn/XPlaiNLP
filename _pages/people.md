@@ -10,9 +10,9 @@ author_profile: false
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/bio-photo.jpg" alt="">
   <figcaption>Ibrahim Baroud</figcaption>
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/bio-photo.jpg" alt="">
-  <figcaption>Charlott Jakob</figcaption>
+  <!--<figcaption>Charlott Jakob</figcaption> -->
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/bio-photo.jpg" alt="">
-  <figcaption>Salar Mohtaj</figcaption>
+  <!--<figcaption>Salar Mohtaj</figcaption>
 </figure>
 
 <figure style="width: 250px" class="align-center">
