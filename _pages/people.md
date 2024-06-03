@@ -6,17 +6,11 @@ author_profile: false
 
 # Researchers
 
-<figure style="width: 250px" class="align-center">
+<figure class="third" style="width: 250px" class="align-center">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/bio-photo.jpg" alt="">
   <figcaption>Ibrahim Baroud</figcaption>
-</figure>
-
-<figure style="width: 250px" class="align-center">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/bio-photo.jpg" alt="">
   <figcaption>Charlott Jakob</figcaption>
-</figure>
-
-<figure style="width: 250px" class="align-center">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/bio-photo.jpg" alt="">
   <figcaption>Salar Mohtaj</figcaption>
 </figure>
