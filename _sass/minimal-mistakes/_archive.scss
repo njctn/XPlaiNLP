@@ -75,6 +75,7 @@
 .archive__item-excerpt {
   margin-top: 0;
   font-size: $type-size-6;
+  text-align: center;
 
   & + p {
     text-indent: 0;
@@ -90,9 +91,13 @@
   border-radius: $border-radius;
   overflow: hidden;
 
-  /*img {
-    width: 100%;
-  }*/
+  
+  img {
+    /*inserted to make the pictures round (in combination with overflow: hidden, see
+    https://www.webfx.com/blog/web-design/circular-images-css/*/
+    border-radius: 50%;
+    /*width: 100%;*/
+  }
 }
 
 .archive__item-caption {
