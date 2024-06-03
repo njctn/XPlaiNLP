@@ -6,7 +6,7 @@ author_profile: false
 
 # Researchers
 
-<figure class="third" style="width: 250px" class="align-center">
+<figure class="third" style="width: 200px">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/bio-photo.jpg" alt="">
   <figcaption>Ibrahim Baroud</figcaption>
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/bio-photo.jpg" alt="">
