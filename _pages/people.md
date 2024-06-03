@@ -27,8 +27,8 @@ author_profile: false
 
 # Student Assistants
 
-<figure width="250" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/bio-photo.jpg" alt="">
+<figure class="align-center">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/bio-photo.jpg" alt="" width="250">
   <figcaption>Ata Nizamoglu</figcaption>
 </figure>
 
