@@ -4,14 +4,8 @@ main:
   - title: "People"
     url: /people/
   - title: "Publications"
-    url: /404/ #/publications/
+    url: /publications/
   - title: "Projects"
     url: /projects/
-  - title: "Open Source Tools"
-    url: /404/ #/tools/
-  - title: "Datasets"
-    url: /404/ #/datasets/
   - title: "Contact"
     url: /404/ #/contact/
-  - title: "Splash"
-    url: /splash-page/

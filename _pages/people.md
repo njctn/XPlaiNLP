@@ -12,7 +12,7 @@ researchers:
     alt: "Charlott Jakob"
     excerpt: 'Charlott Jakob'
     size: "500"
-  - image_path: /assets/images/bio-photo.jpg
+  - image_path: /assets/images/Salar.jpg
     alt: "Salar Mohtaj"
     excerpt: 'Salar Mohtaj'
     size: "500"   
@@ -20,11 +20,11 @@ researchers:
     alt: "Lisa Raithel"
     excerpt: 'Lisa Raithel'
     size: "500" 
-  - image_path: /assets/images/bio-photo.jpg
+  - image_path: /assets/images/Premtim.jpg
     alt: "Premtim Sahitaj"
     excerpt: 'Premtim Sahitaj'
     size: "500"
-  - image_path: /assets/images/bio-photo.jpg
+  - image_path: /assets/images/Vera.jpg
     alt: "Vera Schmitt"
     excerpt: 'Vera Schmitt'
     size: "500"
@@ -34,7 +34,7 @@ researchers:
     size: "500"
 
 partner:
-  - image_path: /assets/images/bio-photo.jpg
+  - image_path: /assets/images/Tim.jpg
     alt: "Tim Polzehl"
     excerpt: 'Tim Polzehl'
     size: "500"
@@ -82,42 +82,3 @@ alumni:
 
 {% include feature_row id="alumni" %}
 
-### html only
-
-<figure class="third">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/bio-photo.jpg" alt="">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/bio-photo.jpg" alt="">
-  <!--<figcaption>Charlott Jakob</figcaption> -->
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/bio-photo.jpg" alt="">
-  <!--<figcaption>Salar Mohtaj</figcaption> -->
-    <figcaption>Ibrahim Baroud Charlott Jakob Salar Mohtaj</figcaption>
-</figure>
-
-<figure style="width: 250px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/bio-photo.jpg" alt="">
-  <figcaption>Premtim Sahitaj</figcaption>
-</figure>
-
-<figure style="width: 250px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/bio-photo.jpg" alt="">
-  <figcaption>Vera Schmitt</figcaption>
-</figure>
-
-# Student Assistants
-
-<figure class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/bio-photo.jpg" alt="" width="250">
-  <figcaption>Ata Nizamoglu</figcaption>
-</figure>
-
-<figure style="width: 250px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/bio-photo.jpg" alt="">
-  <figcaption>Ariana Sahitaj</figcaption>
-</figure>
-
-# Alumni
-
-<figure style="width: 250px" class="align-center">
-  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/bio-photo.jpg" alt="">
-  <figcaption>Martin Burghart</figcaption>
-</figure>
