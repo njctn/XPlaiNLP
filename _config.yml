@@ -82,10 +82,10 @@ footer:
       url: "https://twitter.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://github.com/news-polygraph/"
+#    - label: "Instagram"
+#      icon: "fab fa-fw fa-instagram"
+#      url: "https://instagram.com/"
 
 defaults:
   # _posts
@@ -106,6 +106,13 @@ defaults:
     values:
       layout: single
       author_profile: true
+  # publications
+#  - scope:
+#      path: "_publications"
+#      type: publications
+#    values:
+#      layout: single
+#      author_profile: true
 
 category_archive:
   type: liquid
