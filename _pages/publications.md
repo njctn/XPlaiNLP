@@ -4,11 +4,19 @@ title: "Publications"
 permalink: /publications/
 author_profile: false
 ---
-{% comment}
-{% include base_path %}
 
+{% if paginator %}
+  {% assign posts = paginator.posts %}
+{% else %}
+  {% assign posts = site.posts %}
+{% endif %}
 
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
-{% endcomment %}
+{% assign entries_layout = page.entries_layout | default: 'list' %}
+<div class="entries-{{ entries_layout }}">
+  {% for post in posts %}
+    {% include archive-single.html type=entries_layout %}
+  {% endfor %}
+</div>
+
+{% include paginator.html %}
+
