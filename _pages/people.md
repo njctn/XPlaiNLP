@@ -103,5 +103,3 @@ alumni:
 ## Alumni
 
 {% include feature_row id="alumni" %}
-
-
