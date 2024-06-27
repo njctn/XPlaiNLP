@@ -1,10 +1,10 @@
 ---
 layout: archive
-title: "Publications"
-permalink: /publications/
-author_profile: false
-read_more: disabled
 ---
+
+{{ content }}
+
+<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Posts" }}</h3>
 
 {% if paginator %}
   {% assign posts = paginator.posts %}
@@ -12,17 +12,11 @@ read_more: disabled
   {% assign posts = site.posts %}
 {% endif %}
 
-{% comment %}
 {% assign entries_layout = page.entries_layout | default: 'list' %}
 <div class="entries-{{ entries_layout }}">
-  {% for post in posts %}
+  {% for post in publications %}
     {% include archive-single.html type=entries_layout %}
   {% endfor %}
 </div>
-{% endcomment %}
 
-{% include base_path %}
-
-{% for post in posts %}
-  {% include archive-single.html %}
-{% endfor %}
+{% include paginator.html %}
