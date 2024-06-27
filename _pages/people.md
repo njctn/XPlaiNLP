@@ -4,12 +4,12 @@ permalink: /people/
 author_profile: false
 
 researchers:
-  - image_path: /assets/images/bio-photo.jpg
+  - image_path: /assets/images/Ibrahim.jpg
     alt: "Ibrahim Baroud"
     excerpt: 'Ibrahim Baroud'
     size: "500"
     email: "ibrahim.baroud@dfki.de"
-  - image_path: /assets/images/bio-photo.jpg
+  - image_path: /assets/images/Charlott.jpg
     alt: "Charlott Jakob"
     excerpt: 'Charlott Jakob'
     size: "500"
@@ -25,6 +25,7 @@ researchers:
     alt: "Lisa Raithel"
     excerpt: 'Lisa Raithel'
     size: "500" 
+    email: "raithel@tu-berlin.de"
   - image_path: /assets/images/Premtim.jpg
     alt: "Premtim Sahitaj"
     excerpt: 'Premtim Sahitaj'
@@ -37,7 +38,7 @@ researchers:
     size: "500"
     email: "vera.schmitt@tu-berlin.de"
     github: "https://github.com/veraschmitt"
-  - image_path: /assets/images/bio-photo.jpg
+  - image_path: /assets/images/Felipe.jpg
     alt: "Felipe Villa"
     excerpt: 'Felipe Villa'
     size: "500"
@@ -57,13 +58,13 @@ partner:
     size: "500"  
 
 students:
-  - image_path: /assets/images/bio-photo.jpg
+  - image_path: /assets/images/Ata.jpg
     alt: "Ata Nizamoglu"
     excerpt: 'Ata Nizamoglu'
     size: "500"
     email: "nizamoglu@campus.tu-berlin.de"
     github: "https://github.com/ataniz"
-  - image_path: /assets/images/bio-photo.jpg
+  - image_path: /assets/images/Ariana.jpg
     alt: "Ariana Sahitaj"
     excerpt: 'Ariana Sahitaj'
     size: "500"
