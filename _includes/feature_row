@@ -32,11 +32,15 @@
           {{ f.excerpt | markdownify }}
         </div>
         {% endif %}
-
-        {% if f.url %}
-        <p><a href="{{ f.url | relative_url }}" class="btn {{ f.btn_class }}">{{ f.btn_label | default:
-            site.data.ui-text[site.locale].more_label | default: "Learn More" }}</a></p>
+        <p>
+        {% if f.email %}
+        <a href="{{ f.email | relative_url }}" class="fas fa-fw fa-envelope-square" aria-hidden="true"></a>
         {% endif %}
+
+        {% if f.github %}
+        <a href="{{ f.github | relative_url }}" class="fab fa-fw fa-github" aria-hidden="true"></a>
+        {% endif %}
+        </p>
       </div>
     </div>
   </div>
