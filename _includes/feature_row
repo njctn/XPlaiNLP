@@ -40,6 +40,10 @@
         {% if f.github %}
         <a href="{{ f.github | relative_url }}" class="fab fa-fw fa-github" aria-hidden="true" target="_blank" rel="noopener noreferrer"></a>
         {% endif %}
+
+        {% if f.scholar %}
+        <a href="{{ f.scholar | relative_url }}" class="fas fa-fw fa-graduation-cap" aria-hidden="true" target="_blank" rel="noopener noreferrer"></a>
+        {% endif %}
         </p>
       </div>
     </div>

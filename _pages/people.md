@@ -21,6 +21,7 @@ researchers:
     size: "500"
     email: "salar.mohtaj@tu-berlin.de"   
     github: "https://github.com/salarmohtaj"
+    scholar: "https://scholar.google.com/citations?user=lnrUBN0AAAAJ&hl=en"
   - image_path: /assets/images/bio-photo.jpg
     alt: "Lisa Raithel"
     excerpt: 'Lisa Raithel'
@@ -38,6 +39,7 @@ researchers:
     size: "500"
     email: "vera.schmitt@tu-berlin.de"
     github: "https://github.com/veraschmitt"
+    scholar: "https://scholar.google.com/citations?user=pKbJC10AAAAJ&hl=en&oi=ao"
   - image_path: /assets/images/Felipe.jpg
     alt: "Felipe Villa"
     excerpt: 'Felipe Villa'
