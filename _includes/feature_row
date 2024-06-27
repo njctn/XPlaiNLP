@@ -34,11 +34,11 @@
         {% endif %}
         <p>
         {% if f.email %}
-        <a href="{{ f.email | relative_url }}" class="fas fa-fw fa-envelope-square" aria-hidden="true"></a>
+        <a href="mailto:{{ f.email | relative_url }}" class="fas fa-fw fa-envelope-square" aria-hidden="true"></a>
         {% endif %}
 
         {% if f.github %}
-        <a href="{{ f.github | relative_url }}" class="fab fa-fw fa-github" aria-hidden="true"></a>
+        <a href="{{ f.github | relative_url }}" class="fab fa-fw fa-github" aria-hidden="true" target="_blank" rel="noopener noreferrer"></a>
         {% endif %}
         </p>
       </div>
