@@ -15,7 +15,7 @@ researchers:
     size: "500"
     email: "c.jakob@tu-berlin.de"
     github: https://github.com/charlottjakob
-  - image_path: /assets/images/Salar.jpg
+  - image_path: /assets/images/Salar.JPG
     alt: "Salar Mohtaj"
     excerpt: 'Salar Mohtaj'
     size: "500"
@@ -27,13 +27,13 @@ researchers:
     excerpt: 'Lisa Raithel'
     size: "500" 
     email: "raithel@tu-berlin.de"
-  - image_path: /assets/images/Premtim.jpg
+  - image_path: /assets/images/Premtim.JPG
     alt: "Premtim Sahitaj"
     excerpt: 'Premtim Sahitaj'
     size: "500"
     email: "sahitaj@tu-berlin.de"
     github: "https://github.com/premsa"
-  - image_path: /assets/images/Vera.jpg
+  - image_path: /assets/images/Vera.JPG
     alt: "Vera Schmitt"
     excerpt: 'Vera Schmitt'
     size: "500"
@@ -48,7 +48,7 @@ researchers:
     github: "https://github.com/felipevillaarenas"
 
 partner:
-  - image_path: /assets/images/Tim.jpg
+  - image_path: /assets/images/Tim.JPG
     alt: "Tim Polzehl"
     excerpt: 'Tim Polzehl'
     size: "500"
