@@ -34,13 +34,11 @@
       {% endif %}
     </h2>
 
-    <!-- not needed -->
     {% comment %}
     {% if post.read_time %}
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
     {% endcomment %}
-    <!-- not needed -->
 
     {% if post.collection == 'projects' %}
         {% if post.start and post.end %}

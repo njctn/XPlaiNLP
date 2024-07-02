@@ -77,9 +77,9 @@ author:
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/"
+    - label: "TU Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://www.tu.berlin/qu/forschung/forschungsgruppen/xplainlp"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/news-polygraph/"

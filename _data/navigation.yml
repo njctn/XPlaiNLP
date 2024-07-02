@@ -1,6 +1,4 @@
 main:
-  - title: "Home"
-    url: /404/ #/home/ 
   - title: "News"
     url: /news/
   - title: "People"
