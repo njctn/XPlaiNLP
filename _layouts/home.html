@@ -10,8 +10,7 @@ layout: archive
   <img src="/assets/images/team.jpg" alt=""></a>
 </figure>-->
 
-
-<h3 class="archive__subtitle">{{ site.data.ui-text[site.locale].recent_posts | default: "Recent Publications" }}</h3>
+<h1 class="archive__title">Recent News</h1>
 
 {% if paginator %}
   {% assign posts = paginator.posts %}
@@ -27,3 +26,22 @@ layout: archive
 </div>
 
 {% include paginator.html %}
+
+<h1 class="archive__title">Recent Publications</h1>
+
+{% if paginator %}
+  {% assign posts = paginator.posts %}
+{% else %}
+  {% assign posts = site.publications %}
+{% endif %}
+
+{% assign entries_layout = page.entries_layout | default: 'list' %}
+<div class="entries-{{ entries_layout }}">
+  {% for post in posts %}
+    {% include archive-single.html type=entries_layout %}
+  {% endfor %}
+</div>
+
+{% include paginator.html %}
+
+
