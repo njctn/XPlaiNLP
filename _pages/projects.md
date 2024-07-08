@@ -23,7 +23,7 @@ The NEWS-POLYGRAPH alliance consists of a total of ten partners from industry an
 
 ## Project Website
 
-[https://news-polygraph.com/](https://news-polygraph.com/) 
+[https://news-polygraph.com/](https://news-polygraph.com/){:target="_blank"}{:.btn .btn--success}{:rel="nofollow noopener noreferrer me"}
 
 ## Duration
 

@@ -23,6 +23,7 @@
       {% endif %}
 
       <div class="archive__item-body">
+        <div class="author__content" align="center">
         {% if f.title %}
         <h2 class="archive__item-title">{{ f.title }}</h2>
         {% endif %}
@@ -38,13 +39,16 @@
         {% endif %}
 
         {% if f.github %}
-        <a href="{{ f.github | relative_url }}" class="fab fa-fw fa-github" aria-hidden="true" target="_blank" rel="noopener noreferrer"></a>
+        <a href="{{ f.github | relative_url }}" target="_blank" rel="nofollow noopener noreferrer me">
+          <i class="fab fa-fw fa-github" aria-hidden="true"></i>
+        </a>
         {% endif %}
 
         {% if f.scholar %}
-        <a href="{{ f.scholar | relative_url }}" class="fas fa-fw fa-graduation-cap" aria-hidden="true" target="_blank" rel="noopener noreferrer"></a>
+        <a href="{{ f.scholar | relative_url }}" class="fas fa-fw fa-graduation-cap" aria-hidden="true" target="_blank" rel="nofollow noopener noreferrer me"></a>
         {% endif %}
         </p>
+        </div>
       </div>
     </div>
   </div>
