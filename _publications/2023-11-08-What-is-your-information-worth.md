@@ -12,5 +12,5 @@ author_profile: true
 author: Vera
 ---
 
-[Access paper here](https://doi.org/10.1007/978-3-031-47748-5_13){:target="_blank"}
+[Access paper here](https://doi.org/10.1007/978-3-031-47748-5_13){:target="_blank"}{:.btn .btn--info}
 
