@@ -43,6 +43,20 @@
   }
 }
 
+/* added in order to have a title for home page */
+/* copied archive__subtitle (above) but with font size 3*/
+.archive__title {
+  margin: 1.414em 0 0.5em;
+  padding-bottom: 0.5em;
+  font-size: $type-size-3;
+  color: $muted-text-color;
+  border-bottom: 1px solid $border-color;
+
+  + .list__item .archive__item-title {
+    margin-top: 0.5em;
+  }
+}
+
 .archive__item-title {
   margin-bottom: 0.25em;
   font-family: $sans-serif-narrow;
