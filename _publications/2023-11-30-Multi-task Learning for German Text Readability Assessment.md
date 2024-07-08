@@ -13,4 +13,12 @@ predict the readability of German text based on pre-trained models. The proposed
 tasks: text complexity, understandability, and lexical difficulty assessment. The results show a significant improvement in the
 model’s performance in the multi-task learning setting compared to single-task learning, where each model has been trained
 separately for each task.'
+sidebar:
+  - title: "Title"
+    image: "/assets/images/350x250.png"
+    image_alt: "image"
+    text: "Some text here."
+  - title: "Another Title"
+    text: "More text here."
+    nav: sidebar-sample
 ---

@@ -75,6 +75,7 @@
 .archive__item-excerpt {
   margin-top: 0;
   font-size: $type-size-6;
+  /* added to center the names on the peoples page*/
   text-align: center;
 
   & + p {

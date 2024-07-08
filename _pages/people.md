@@ -7,7 +7,7 @@ researchers:
   - image_path: /assets/images/Ibrahim.jpg
     alt: "Ibrahim Baroud"
     excerpt: 'Ibrahim Baroud'
-    size: "500"
+    size: ""
     email: "ibrahim.baroud@dfki.de"
   - image_path: /assets/images/Charlott.jpg
     alt: "Charlott Jakob"
