@@ -9,22 +9,22 @@ author_profile: false
 
 # NEWS-POLYGRAPH
 
-Bewusst platzierte Fehlinformationen und Medienmanipulation sind zu einem weit verbreiteten Phänomen vor allem in den Sozialen Medien geworden. Sie sind zunehmend realistisch und glaubhaft und werden zur absichtlichen Irreführung in nahezu allen gesellschaftsrelevanten Bereichen verwendet. Das RUBIN-Bündnis NEWS-POLYGRAPH stärkt die Medienbranche, indem sie die Verifikationsprozesse von Medieninhalten mit Hilfe von Künstlicher Intelligenz (KI) vereinfachen möchte.
+Deliberately placed misinformation and media manipulation have become a widespread phenomenon, especially in social media. They are increasingly realistic and credible and are used to deliberately mislead in almost all socially relevant areas. The RUBIN alliance NEWS-POLYGRAPH strengthens the media industry by simplifying the verification processes of media content with the help of artificial intelligence (AI).
 
-## Projektbeschreibung
+## Project description
 
-Ziel des NEWS-POLYGRAPH Bündnisses ist es, für die Medienbranche geeignete Lösungen zur frühzeitigen Erkennung von gefälschten Inhalten bzw. Falschinformationen zu entwickeln. Hierfür wird eine interaktive Plattform entwickelt, um die unterschiedlichen Verifizierungaufgaben von Journalisten zu unterstützen. Dazu werden KI-Tools entwickelt, die Texte, Bilder, Audio-Files und Videos auf unterschiedliche Merkmale, die auf Desinformation hinweisen, untersuchen, um die Arbeit der Journalisten zu vereinfachen. Dabei werden Transparenzkriterien, Erklärbarkeit der KI-Tools und die Prävention von Verzerrungen eine wichtige Rolle spielen, um die KI-Tools verlässlich und nachvollziehbar zu gestalten. Zusätzlich werden Prozesse entwickelt, um Crowdworker in den Falschnachrichtenerkennungsprozess zu integrieren, die zusätzlich zu den KI-Tools Medieninhalte analysieren können. 
+The aim of the NEWS-POLYGRAPH alliance is to develop suitable solutions for use in the media industry, enabling early detection of fake content or false information. To this end, an interactive platform is being developed to support the various verification tasks of journalists. To facilitate and assist the work of journalists, AI tools are being developed that analyze texts, images, audio files and videos for various characteristics that indicate mis- and disinformation. Criteria for transparency, explainability of the AI tools and the prevention of bias will play an important role in making the AI tools reliable and comprehensible. In addition, processes are being developed to integrate crowdworkers into the fake news detection process, who can analyze media content in addition to the AI tools. 
 
-Insgesamt wird eine KI-basierte Plattform entwickelt, die Journalisten und Medienschaffende intuitiv, transparent und vor allem zeitsparend bei der Erkennung von Falschinformationen unterstützt.
+Overall, an AI-based platform is being developed that supports journalists and media professionals in detecting false information in an intuitive, transparent and, above all, time-saving manner.
 
-## Partner
+## Partners
 
-Das NEWS-POLYGRAPH-Bündnis besteht aus insgesamt zehn Partnern, die sich aus Industrie und Wissenschaft zusammensetzen. Die unternehmerische Ausrichtung des Bündnisses wird dabei durch fünf Unternehmen, Crowdee, delphai, neurocat, transfermedia und Ubermetrics unterstützt. In Verbindung mit den regionalen Partnern aus dem Anwendungsbereich, der Deutschen Welle und dem Rundfunk Berlin-Brandenburg hat das Bündnis Anwenderpartner, wo die KI-Tools und Plattform getestet und in den journalistischen Alltag integriert werden kann. Unterstützt werden die Unternehmen und Anwender dabei von den Wissenschaftspartnern DFKI, TU Berlin und Fraunhofer IDMT.
+The NEWS-POLYGRAPH alliance consists of a total of ten partners from industry and science. The entrepreneurial focus of the alliance is supported by five companies: Crowdee, delphai, neurocat, transfermedia and Ubermetrics. In conjunction with the regional partners, Deutsche Welle and Rundfunk Berlin-Brandenburg, the alliance has application partners by whom the AI tools and platform can be tested and integrated into everyday journalistic work. The companies and users are supported by the scientific partners DFKI, TU Berlin and Fraunhofer IDMT.
 
-## Link zur Projektwebseite
+## Project Website
 
 [https://news-polygraph.com/](https://news-polygraph.com/) 
 
-## Laufzeit
+## Duration
 
 01.05.2023 - 30.04.2026
