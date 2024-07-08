@@ -4,6 +4,7 @@ title: "Publications"
 permalink: /publications/
 author_profile: false
 read_more: disabled
+classes: wide
 ---
 
 {% if paginator %}
