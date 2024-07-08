@@ -17,18 +17,24 @@ author_profile: false
 
 <i class="fa-li fas fa-map-marker fa-2x" aria-hidden="true">
 </i>
-TEL Gebäude, 6. Stock
+DFKI
 <br>
-<a href="https://www.openstreetmap.org/directions?from=&to=52.51294%2C13.32005" target="_blank" rel="noopener noreferrer"> Ernst-Reuter-Platz 7, <br> 10587 Berlin</a> 
+<a href="https://www.openstreetmap.org/directions?from=&to=52.52422%2C13.34410" target="_blank" rel="noopener noreferrer"> Alt-Moabit 91c<br>10559 Berlin</a> 
+<br>
+take the elevator to floor 4 and ring the reception bell
 
 <i class="fa-li fas fa-compass fa-2x" aria-hidden="true">
 </i>
 <div id="map"></div>
 <script>
- var map = L.map('map').setView([52.51294, 13.32005], 16);
+ // old location (TEL):
+ // var location = [52.51294, 13.32005] 
+ // new location (DFKI):
+ var loc = [52.52422, 13.34410]  
+ var map = L.map('map').setView(loc, 16);
  L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
     maxZoom: 19,
     attribution: '&copy; <a href="http://www.openstreetmap.org/copyright">OpenStreetMap</a>'
  }).addTo(map);
- var marker = L.marker([52.51294, 13.32005]).addTo(map);
+ var marker = L.marker(loc).addTo(map);
 </script>
