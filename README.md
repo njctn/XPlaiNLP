@@ -7,7 +7,7 @@
 
 2. Click on any publication file (.md) in that folder and copy it (top-right corner)
 
-![Copy any publication file]({{ site.url }}{{ site.baseurl }}/assets/add_publication_2.jpg)
+![Copy any publication file](assets/add_publication_2.jpg)
 
 3. Navigate back to the folder "_publicaitons" and add a new file (top-right corner)
 
