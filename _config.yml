@@ -87,6 +87,11 @@ footer:
 #      icon: "fab fa-fw fa-instagram"
 #      url: "https://instagram.com/"
 
+# Added to disable RSS button in footer like described here:
+# https://mmistakes.github.io/minimal-mistakes/docs/configuration/#disable-feed-icons
+atom_feed:
+  hide: true
+
 # Collections
 collections:
   publications:
