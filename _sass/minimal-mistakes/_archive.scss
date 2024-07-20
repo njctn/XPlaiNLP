@@ -20,6 +20,13 @@
 
 .archive__item {
   position: relative;
+  background: #282a36;
+  box-shadow: 0 1px 4px rgba(0,0,0,4%);
+  border: 1px solid #44475a;
+  border-radius: 3px;
+  padding: 15px 20px;
+  margin-top: 0;
+  box-sizing: border-box;
 
   a {
     position: relative;
@@ -46,11 +53,13 @@
 /* added in order to have a title for home page */
 /* copied archive__subtitle (above) but with font size 3*/
 .archive__title {
+  /* added from SLT in order to have a border box 3*/
   margin: 1.414em 0 0.5em;
   padding-bottom: 0.5em;
   font-size: $type-size-3;
   color: $muted-text-color;
   border-bottom: 1px solid $border-color;
+  /* end SLT 3*/
 
   + .list__item .archive__item-title {
     margin-top: 0.5em;
@@ -58,6 +67,8 @@
 }
 
 .archive__item-title {
+  /* margin-top: added so that it overrides the 2em inherited from h2*/
+  margin-top: 0.5em;
   margin-bottom: 0.25em;
   font-family: $sans-serif-narrow;
   line-height: initial;

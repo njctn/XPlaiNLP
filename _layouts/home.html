@@ -6,6 +6,8 @@ layout: archive
 
 {% assign publications = site.publications | reverse %}
 
+{% assign entries_layout = page.entries_layout | default: 'list' %}
+
 <!--
 <figure class="align-center">
   <a href="/assets/images/team.jpg" title="The Pixel Tracker logo" alt="The Pixel Tracker logo">
@@ -14,19 +16,25 @@ layout: archive
 
 <h1 class="archive__title">Recent News</h1>
 
-{% assign entries_layout = page.entries_layout | default: 'list' %}
+
 <div class="entries-{{ entries_layout }}">
-  <!-- to change the number of news posts shown on this page, change limit here-->
+  {% comment %}
+  to change the number of news posts shown on this page, change limit below
+  {% endcomment %}
   {% for post in news limit:2 %}
     {% include archive-single.html type=entries_layout %}
+    <p> </p>
   {% endfor %}
 </div>
 
 <h1 class="archive__title">Recent Publications</h1>
 
 <div class="entries-{{ entries_layout }}">
-  <!-- to change the number of publication posts shown on this page, change limit here-->
+  {% comment %}
+  to change the number of publication posts shown on this page, change limit below
+  {% endcomment %}
   {% for post in publications limit:2 %}
     {% include archive-single.html type=entries_layout %}
+    <p> </p>
   {% endfor %}
 </div>
