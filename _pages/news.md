@@ -13,10 +13,12 @@ url: /
   {% assign posts = site.news %}
 {% endif %}
 
-
+{% comment %}
 {% include base_path %}
+{% endcomment %}
 
 {% for post in posts %}
     {% include archive-single.html %} 
 {% endfor %}
 
+{{ paginator }}

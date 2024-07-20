@@ -2,7 +2,9 @@
 layout: archive
 ---
 
-{{ content }}
+{% assign news = site.news | reverse %}
+
+{% assign publications = site.publications | reverse %}
 
 <!--
 <figure class="align-center">
@@ -12,36 +14,19 @@ layout: archive
 
 <h1 class="archive__title">Recent News</h1>
 
-{% if paginator %}
-  {% assign posts = paginator.posts %}
-{% else %}
-  {% assign posts = site.news %}
-{% endif %}
-
 {% assign entries_layout = page.entries_layout | default: 'list' %}
 <div class="entries-{{ entries_layout }}">
-  {% for post in posts %}
+  <!-- to change the number of news posts shown on this page, change limit here-->
+  {% for post in news limit:2 %}
     {% include archive-single.html type=entries_layout %}
   {% endfor %}
 </div>
-
-{% include paginator.html %}
 
 <h1 class="archive__title">Recent Publications</h1>
 
-{% if paginator %}
-  {% assign posts = paginator.posts %}
-{% else %}
-  {% assign posts = site.publications %}
-{% endif %}
-
-{% assign entries_layout = page.entries_layout | default: 'list' %}
 <div class="entries-{{ entries_layout }}">
-  {% for post in posts %}
+  <!-- to change the number of publication posts shown on this page, change limit here-->
+  {% for post in publications limit:2 %}
     {% include archive-single.html type=entries_layout %}
   {% endfor %}
 </div>
-
-{% include paginator.html %}
-
-
