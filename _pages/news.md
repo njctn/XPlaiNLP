@@ -18,7 +18,8 @@ url: /
 {% endcomment %}
 
 {% for post in posts %}
-    {% include archive-single.html %} 
+    {% include archive-single.html %}
+    <p></p>
 {% endfor %}
 
 {{ paginator }}

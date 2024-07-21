@@ -19,14 +19,6 @@
 }
 
 .archive__item {
-  position: relative;
-  background: #282a36;
-  box-shadow: 0 1px 4px rgba(0,0,0,4%);
-  border: 1px solid #44475a;
-  border-radius: 3px;
-  padding: 15px 20px;
-  margin-top: 0;
-  box-sizing: border-box;
 
   a {
     position: relative;
@@ -36,6 +28,17 @@
   a[rel="permalink"] {
     position: static;
   }
+}
+
+.archive__item__with__border {
+  position: relative;
+  background: #282a36;
+  box-shadow: 0 1px 4px rgba(0,0,0,4%);
+  border: 1px solid #44475a;
+  border-radius: 3px;
+  padding: 15px 20px;
+  margin-top: 0;
+  box-sizing: border-box;
 }
 
 .archive__subtitle {
