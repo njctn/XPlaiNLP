@@ -4,7 +4,7 @@ title: "News"
 permalink: /news/
 author_profile: false
 read_more: disabled
-url: /
+classes: wide
 ---
 
 {% if paginator %}
@@ -13,13 +13,7 @@ url: /
   {% assign posts = site.news %}
 {% endif %}
 
-{% comment %}
-{% include base_path %}
-{% endcomment %}
-
 {% for post in posts %}
-    {% include archive-single.html %}
-    <p></p>
+  {% include archive-single.html %}
+  <p></p>
 {% endfor %}
-
-{{ paginator }}

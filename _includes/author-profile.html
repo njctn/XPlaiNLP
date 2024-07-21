@@ -5,7 +5,11 @@
 Testing area ahead (until div itemscope...schema...h-card)
 {% endcomment %}
 
-{% assign authors = page.authors | split: ", " %}
+{% if page.authors %}
+  {% assign authors = page.authors | split: ", " %}
+{% elsif page.author %}
+  {% assign authors = page.author %}
+{% endif %}
 {% for elem in authors %}
   {% assign author = site.data.authors[elem] | default: author %}
   <div itemscope itemtype="https://schema.org/Person" class="h-card">
