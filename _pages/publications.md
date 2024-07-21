@@ -26,5 +26,5 @@ classes: wide
 
 {% for post in posts %}
   {% include archive-single.html %}
+  <p></p>
 {% endfor %}
-
