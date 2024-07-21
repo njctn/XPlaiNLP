@@ -77,12 +77,15 @@ author:
 
 footer:
   links:
-    - label: "TU Website"
+    - label: "Website TU Berlin"
       icon: "fas fa-fw fa-link"
       url: "https://www.tu.berlin/qu/forschung/forschungsgruppen/xplainlp"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/news-polygraph/"
+    - label: "Impressum"
+      icon: "fas fa-fw fa-link"
+      url: /impressum/
 #    - label: "Instagram"
 #      icon: "fab fa-fw fa-instagram"
 #      url: "https://instagram.com/"
