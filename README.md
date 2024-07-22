@@ -18,6 +18,7 @@
 5. Adjust all the fields accordingly.
 IMPORTANT: the value in the field date must be in the YYYY-MM-DD format.
 The field author should contain all authors of this paper (possible authors listed on people.md).
-The last three fields (author_profile, collection and classes) should not be changed.   
+The last three fields (author_profile, collection and classes) should not be changed.
+Change the link to the paper pdf at the bottom of the file in the brackets after "Access paper here" or remove it if there is no pdf availible (yet).
 
-6. Commit the changes (top-right corner).
+7. Commit the changes (top-right corner).
