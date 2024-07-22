@@ -1,7 +1,7 @@
-# Add publciation
+# Add publication/<span style="color: darkblue">news post</span>
 ## No-code in-browser approach
 
-1. Navigate to the folder "_publications"
+1. Navigate to the folder "_publications"/<span style="color: darkblue">"_news"</span>
 
 ![Navigate to folder publications](/assets/images/add_publication_1.jpg)
 
@@ -15,4 +15,13 @@
 
 4. Paste the copied publication into the contents of the newly created file and name it date-title.md
 
-5. Adjust the following:
+5. Adjust all the fields accordingly.
+<span style="color: darkred">Important:</span> the field <span style="color: limegreen">date</span> must be in the YYYY-MM-DD format.
+The field <span style="color: limegreen">author</span> should contain all authors of this paper (listed on people.md).
+The last three fields (author_profile, collection and classes) should not be changed.  
+
+6. File name: naming convention is optional (YYYY-MM-DD-paper-name) but it should be a .md file.  
+
+7. <span style="color: limegreen">Commit</span> the changes (top-right corner)
+
+## Clone the 
