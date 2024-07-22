@@ -34,5 +34,5 @@ When a string scalar is surrounded by single quotes '....' the only escaping wit
 ```
 When string scalar is surrounded by double quotes, "....", you use backslash for escaping.
 ```
- \"the user's behavior\"
+ \"user behavior\"
 ```
