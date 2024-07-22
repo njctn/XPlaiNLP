@@ -7,11 +7,13 @@ classes: wide
 
 **Anbieter:**   
 Vera Schmitt  
-Musterstraße 1  
-XXXXX Berlin  
+Quality and Usability Lab  
+Deutsche Telekom Laboratories  
+TU Berlin  
+Ernst-Reuter-Platz 7  
+D-10587 Berlin, Germany  
 
 **Kontakt:**   
-Telefon:   
 E-Mail: vera.schmitt(at)tu-berlin.de  
 Webseite: <a href="https://veraschmitt.github.io" rel="nofollow noopener noreferrer me" target="_blank">veraschmitt.github.io</a>
 
