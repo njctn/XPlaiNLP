@@ -9,3 +9,19 @@ main:
     url: /projects/
   - title: "Contact"
     url: /contact/
+
+sidebar-projects:
+  - title: "Projects"
+    children:
+      - title: "Overall Funding"
+        url: /projects/overall-funding
+      - title: "PSST"
+        url: /projects/PSST-EU
+      - title: "FakeXplain"
+        url: /projects/fakexplain
+      - title: "news-polygraph"
+        url: /projects/newspolygraph
+      - title: "VERANDA"
+        url: /projects/veranda
+      - title: "ateSDG"
+        url: /projects/ateSDG

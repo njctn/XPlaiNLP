@@ -6,8 +6,8 @@ author_profile: false
 read_more: disabled
 classes: wide
 
-#sidebar: 
-#- title: "Projects"
+sidebar: 
+ nav: sidebar-projects
 ---
 
 {% if paginator %}
@@ -16,9 +16,7 @@ classes: wide
   {% assign projects = site.projects %}
 {% endif %}
 
-{% for post in projects %}
+{% for post in projects reversed %}
   {% include archive-single.html %}
   <p></p>
 {% endfor %}
-
-{{ projects }}
