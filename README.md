@@ -24,3 +24,15 @@ Change the link to the paper pdf at the bottom of the file in the brackets after
 ![Adjust fields](assets/images/add_publication_4.jpg)
 
 7. Commit the changes (top-right corner).
+
+### Additional info
+1. Escaping special characters
+If special characters are present in title, abstract or authors you can do the following.  
+When a string scalar is surrounded by single quotes '....' the only escaping within that string that can be done is inserting a double single quote to indicate a single quote:
+```
+ the user''s behavior
+```
+When string scalar is surrounded by double quotes, "....", you use backslash (\) for escaping.
+```
+ \"the user's behavior\"
+```
