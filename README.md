@@ -32,7 +32,7 @@ When a string scalar is surrounded by single quotes '....' the only escaping wit
 ```
  the user''s behavior
 ```
-When string scalar is surrounded by double quotes, "....", you use backslash (\) for escaping.
+When string scalar is surrounded by double quotes, "....", you use backslash for escaping.
 ```
  \"the user's behavior\"
 ```
