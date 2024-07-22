@@ -23,7 +23,7 @@ Change the link to the paper pdf at the bottom of the file in the brackets after
 
 ![Adjust fields](assets/images/add_publication_4.jpg)
 
-7. Commit the changes (top-right corner).
+6. Commit the changes (top-right corner).
 
 ### Additional info
 1. Escaping special characters
