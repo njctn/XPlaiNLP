@@ -1,3 +1,24 @@
+Vera:
+    name: 'Vera Schmitt'
+    bio: ''
+    avatar: '/assets/images/Vera.jpg'
+    email: "vera.schmitt@tu-berlin.de"
+    links: 
+      - label: 'Github'
+        icon: 'fab fa-fw fa-github'
+        url: 'https://github.com/veraschmitt'
+      - label: 'Google Scholar' 
+        icon: 'fas fa-fw fa-graduation-cap'
+        url: 'https://scholar.google.com/citations?user=pKbJC10AAAAJ&hl=en&oi=ao'
+Sebastian:
+    name: 'Sebastian Möller'
+    bio: ''
+    avatar: '/assets/images/Sebastian.jpg'
+    email: "sebastian.moeller@tu-berlin.de"
+    links: 
+      - label: 'Google Scholar' 
+        icon: 'fas fa-fw fa-graduation-cap'
+        url: 'https://scholar.google.de/citations?user=BC_qcg0AAAAJ'
 Ibrahim:
     name: 'Imbrahim Baroud'
     bio: ''
@@ -12,6 +33,9 @@ Charlott:
       - label: 'Github'
         icon: 'fab fa-fw fa-github'
         url: 'https://github.com/charlottjakob'
+      - label: 'Google Scholar' 
+        icon: 'fas fa-fw fa-graduation-cap'
+        url: 'https://scholar.google.com/citations?user=AXpvddwAAAAJ'
 Salar:
     name: 'Salar Mohtaj'
     bio: ''
@@ -23,12 +47,19 @@ Salar:
         url: 'https://github.com/salarmohtaj'
       - label: 'Google Scholar' 
         icon: 'fas fa-fw fa-graduation-cap'
-        url: 'https://scholar.google.com/citations?user=lnrUBN0AAAAJ&hl=en'
+        url: 'https://scholar.google.com/citations?user=lnrUBN0AAAAJ'
 Lisa:
     name: 'Lisa Raithel'
     bio: ''
-    avatar: '/assets/images/bio-photo.jpg'
+    avatar: '/assets/images/Lisa.jpg'
     email: "raithel@tu-berlin.de"
+    links:
+      - label: 'Github'
+        icon: 'fab fa-fw fa-github'
+        url: 'https://github.com/lraithel'
+      - label: 'Google Scholar' 
+        icon: 'fas fa-fw fa-graduation-cap'
+        url: 'https://scholar.google.com/citations?user=S0TC4zMAAAAJ'
 Premtim:
     name: 'Premtim Sahitaj'
     bio: ''
@@ -38,20 +69,11 @@ Premtim:
       - label: 'Github'
         icon: 'fab fa-fw fa-github'
         url: 'https://github.com/premsa'
-Vera:
-    name: 'Vera Schmitt'
-    bio: ''
-    avatar: '/assets/images/Vera.jpg'
-    email: "vera.schmitt@tu-berlin.de"
-    links: 
-      - label: 'Github'
-        icon: 'fab fa-fw fa-github'
-        url: 'https://github.com/veraschmitt'
       - label: 'Google Scholar' 
         icon: 'fas fa-fw fa-graduation-cap'
-        url: 'https://scholar.google.com/citations?user=pKbJC10AAAAJ&hl=en&oi=ao'
+        url: 'https://scholar.google.de/citations?user=giJ43JYAAAAJ'
 Felipe:
-    name: 'Felipe Villa'
+    name: 'Luis-Felipe Villa-Areas'
     bio: ''
     avatar: '/assets/images/Felipe.jpg'
     email: "Luis-Felipe.Villa-Arenas@telekom.de"
@@ -59,6 +81,18 @@ Felipe:
       - label: 'Github'
         icon: 'fab fa-fw fa-github'
         url: 'https://github.com/felipevillaarenas'
+Qianli:
+    name: 'Qianli Wang'
+    bio: ''
+    avatar: '/assets/images/Quianli.jpg'
+    email: "wolfgang61617@gmail.com"
+    links: 
+      - label: 'Github'
+        icon: 'fab fa-fw fa-github'
+        url: 'https://github.com/qiaw99'
+      - label: 'Google Scholar' 
+        icon: 'fas fa-fw fa-graduation-cap'
+        url: 'https://scholar.google.com/citations?user=dKmUzp4AAAAJ'
 Tim:
     name: 'Tim Polzehl'
     bio: ''
@@ -68,6 +102,9 @@ Tim:
       - label: 'Github'
         icon: 'fab fa-fw fa-github'
         url: 'https://github.com/TimPolzehl'
+      - label: 'Google Scholar' 
+        icon: 'fas fa-fw fa-graduation-cap'
+        url: 'https://scholar.google.de/citations?user=tImnUh0AAAAJ'
 Joachim: 
     name: 'Joachim Meyer'
     bio: ''
@@ -76,7 +113,7 @@ Joachim:
     links: 
       - label: 'Google Scholar' 
         icon: 'fas fa-fw fa-graduation-cap'
-        url: 'https://scholar.google.com/citations?user=4LaM9EUAAAAJ&hl=en'
+        url: 'https://scholar.google.com/citations?user=4LaM9EUAAAAJ'
 Ata:
     name: 'Ata Nizamoglu'
     bio: ''
