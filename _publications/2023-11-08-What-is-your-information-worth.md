@@ -1,6 +1,5 @@
 ---
 title: "What is Your Information Worth? A Systematic Analysis of the Endowment Effect of Different Data Types"
-collection: publications
 date: 2023-11-08
 venue: 'Nordic Conference on Secure IT Systems'
 paperurl: 'https://link.springer.com/chapter/10.1007/978-3-031-47748-5_13'
