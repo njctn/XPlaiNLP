@@ -21,4 +21,6 @@ The field author should contain all authors of this paper (possible authors list
 The last three fields (author_profile, collection and classes) should not be changed.
 Change the link to the paper pdf at the bottom of the file in the brackets after "Access paper here" or remove it if there is no pdf availible (yet).
 
+![Adjust fields](assets/images/add_publication_4.jpg)
+
 7. Commit the changes (top-right corner).
