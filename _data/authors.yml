@@ -68,6 +68,15 @@ Tim:
       - label: 'Github'
         icon: 'fab fa-fw fa-github'
         url: 'https://github.com/TimPolzehl'
+Joachim: 
+    name: 'Joachim Meyer'
+    bio: ''
+    avatar: '/assets/images/Joachim.jpg'
+    email: "jmeyer@tau.ac.il"
+    links: 
+      - label: 'Google Scholar' 
+        icon: 'fas fa-fw fa-graduation-cap'
+        url: 'https://scholar.google.com/citations?user=4LaM9EUAAAAJ&hl=en'
 Ata:
     name: 'Ata Nizamoglu'
     bio: ''
