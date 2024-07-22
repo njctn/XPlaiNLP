@@ -103,6 +103,9 @@ collections:
   news:
     output: true
     permalink: /:collection/:path/
+  projects:
+    output: true
+    permalink: /:collection/:path/
 
 defaults:
   # _posts
@@ -134,6 +137,13 @@ defaults:
   - scope:
       path: ""
       type: news
+    values:
+      layout: single
+      author_profile: false
+  # _projects
+  - scope:
+      path: ""
+      type: projects
     values:
       layout: single
       author_profile: false
