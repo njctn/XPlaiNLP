@@ -13,7 +13,7 @@ classes: wide
   {% assign news = site.news %}
 {% endif %}
 
-{% for post in news %}
+{% for post in news reversed %}
   {% include archive-single.html %}
   <p></p>
 {% endfor %}
