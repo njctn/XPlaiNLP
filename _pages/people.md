@@ -16,7 +16,7 @@ researchers:
     email: "c.jakob@tu-berlin.de"
     github: https://github.com/charlottjakob
     scholar: 'https://scholar.google.com/citations?user=AXpvddwAAAAJ'
-  - image_path: /assets/images/Salar.JPG
+  - image_path: /assets/images/Salar.jpg
     alt: "Salar Mohtaj"
     excerpt: 'Salar Mohtaj'
     size: "500"
@@ -36,14 +36,14 @@ researchers:
     size: "500" 
     email: "sebastian.moeller@tu-berlin.de"
     scholar: 'https://scholar.google.de/citations?user=BC_qcg0AAAAJ'
-  - image_path: /assets/images/Premtim.JPG
+  - image_path: /assets/images/Premtim.jpg
     alt: "Premtim Sahitaj"
     excerpt: 'Premtim Sahitaj'
     size: "500"
     email: "sahitaj@tu-berlin.de"
     github: "https://github.com/premsa"
     scholar: 'https://scholar.google.de/citations?user=giJ43JYAAAAJ'
-  - image_path: /assets/images/Vera.JPG
+  - image_path: /assets/images/Vera.jpg
     alt: "Vera Schmitt"
     excerpt: 'Vera Schmitt'
     size: "500"
@@ -65,7 +65,7 @@ researchers:
     scholar: 'https://scholar.google.com/citations?user=dKmUzp4AAAAJ'
 
 partner:
-  - image_path: /assets/images/Tim.JPG
+  - image_path: /assets/images/Tim.jpg
     alt: "Tim Polzehl"
     excerpt: 'Tim Polzehl'
     size: "500"
@@ -92,7 +92,7 @@ students:
     size: "500"
     email: "ariana.sahitaj@campus.tu-berlin.de"
     github: "https://github.com/ardemsa"
-  - image_path: /assets/images/bio-photo.jpg
+  - image_path: /assets/images/Andre.jpg
     alt: "André Stephan"
     excerpt: 'André Stephan'
     size: "500"  
